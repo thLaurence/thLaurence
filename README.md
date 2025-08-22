@@ -7,8 +7,8 @@
 {
 
 - 👂 `My name is`: **Thomas**,
-- ⚡ `I'm`: **24 years old**,
-- 🌱 `I’m currently learning`: **TypeScript**,
+- ⚡ `I'm`: **25 years old**,
+- 🌱 `I’m currently learning`: **TypeScript and C#**,
 - ❤️ `I love`: **Coffees and Video Games** ,
 - 💻 `Favorite lang`: **TypeScript**
 
