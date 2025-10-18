@@ -6,7 +6,7 @@
 
 {
 
-- 👂 `My name is`: **Thomas**,
+- 🤘🏻 `My name is`: **Thomas**,
 - ⚡ `I'm`: **25 years old**,
 - 🌱 `I’m currently learning`: **TypeScript and C#**,
 - ❤️ `I love`: **Coffees and Video Games** ,
@@ -17,13 +17,11 @@
 <br/>
 
 <br/>
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center">My Skills</h2>
 
-<h4 align="center">💻 Programming languages and HTML</h4>
+<h4 align="center">💻 Programming languages </h4>
 
 <p align="center">
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
@@ -35,7 +33,6 @@
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
@@ -48,8 +45,6 @@
 <h4 align="center">☁ Cloud and Providers</h4>
 
 <p align="center">
-<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white"></a>
 <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 </p>
