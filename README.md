@@ -8,7 +8,7 @@
 
 - 🤘🏻 `My name is`: **Thomas**,
 - ⚡ `I'm`: **25 years old**,
-- 🌱 `I’m currently learning`: **TypeScript and C#**,
+- 🌱 `I’m currently learning`: **Golang**,
 - ❤️ `I love`: **Coffees and Video Games** ,
 - 💻 `Favorite lang`: **TypeScript**
 
